@@ -1,3 +1,3 @@
 # my portfolio-mobile-first
 
-deployed link
+deployed link https://zeinebbatyrbekova.github.io/portfolio-mob-first/
